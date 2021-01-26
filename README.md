@@ -1,3 +1,6 @@
+### Download
+https://github.com/fuzzbuck/io-global-bans/releases/tag/1.0
+
 ### Plugin
 
 This plugin prevents players that are banned on the io servers from joining your server.
